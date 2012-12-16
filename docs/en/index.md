@@ -41,7 +41,7 @@
             <span>Quickly check the network state, and cellular network information.</span>
         </li>
         <li>
-            <h2><a href=#contacts>Contacts</a>Contacts</h2>
+            <h2><a href=#contacts>Contacts</a></h2>
             <span>Work with the devices contact database.</span>
         </li>
         <li>
@@ -57,15 +57,15 @@
             <span>Hook into native file system through JavaScript.</span>
         </li>
         <li>
-            <h2><a href=#geolocation>Geolocation</a>Geolocation</h2>
+            <h2><a href=#geolocation>Geolocation</a></h2>
             <span>Make your application location aware.</span>
         </li>
         <li>
-            <h2><a href=#globalization>Globalization</a>Globalization</h2>
+            <h2><a href=#globalization>Globalization</a></h2>
             <span>Enable representation of objects specific to a locale.</span>
         </li>
         <li>
-            <h2><a href=#inappbrowser>InAppBrowser</a>InAppBrowser</h2>
+            <h2><a href=#inappbrowser>InAppBrowser</a></h2>
             <span>Launch URLs in another in-app browser instance.</span>
         </li>
         <li>
