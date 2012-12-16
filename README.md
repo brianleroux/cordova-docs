@@ -84,28 +84,3 @@ Generating the Documentation
 ----------------------------
 
 Checkout <a href=http://github.com/brianleroux/pidgeon-park>Pidgeon Park</a> for generating HTML from directories of Markdown.
-
-FAQ
----
-
-### Error while running `./bin/generate`
-
-If you get the following error:
-
-    ./bin/../lib/cordova/navigation_menu.rb:14:in `read': can't convert nil into String (TypeError)
-        from ./bin/../lib/cordova/navigation_menu.rb:14:in `initialize'
-        from ./bin/../lib/docs_generator.rb:86:in `new'
-        from ./bin/../lib/docs_generator.rb:86:in `after_jodoc'
-        from ./bin/../lib/docs_generator.rb:55:in `run'
-        from ./bin/../lib/docs_generator.rb:45:in `foreach'
-        from ./bin/../lib/docs_generator.rb:45:in `run'
-        from ./bin/../lib/docs_generator.rb:41:in `foreach'
-        from ./bin/../lib/docs_generator.rb:41:in `run'
-        from ./bin/generate:6
-
-You may need to add the following line to the joDoc script:
-
-    $markdown_bin = "/path/to/Markdown.pl";
-
-For more details, see the [Issue #590](https://issues.apache.org/jira/browse/CB-590).
-
