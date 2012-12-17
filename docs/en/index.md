@@ -18,6 +18,37 @@
 -->
 
 <div id="home">
+    <h1>Guides</h1>
+    <ul>
+        <li>
+            <h2><a href=#getting-started>Getting Started Guides</a></h2>
+            <span>Setup each SDK and create your first Cordova app.</span>
+        </li>
+        <li>
+            <h2><a href=#command-line>Command Line Usage</a></h2>
+            <span>Create, build, deploy, and debug from the command-line.</span>
+        </li>
+        <li>
+            <h2><a href=#upgrading>Upgrading Guides</a></h2>
+            <span>Upgrade an application to the latest Cordova release.</span>
+        </li>
+        <li>
+            <h2><a href=#project-settings>Project Settings</a></h2>
+            <span>Customize the features of your app.</span>
+        </li>
+        <li>
+            <h2><a href=#plugin-development>Plugin Development Guide</a></h2>
+            <span>Develop your first Cordova plugin.</span>
+        </li>
+        <li>
+            <h2><a href=#whitelist>Domain Whitelist Guide</a></h2>
+            <span>Grant an application access to external domains.</span>
+        </li>
+        <li>
+            <h2><a href=#cordova-webview>Embedding WebView</a></h2>
+            <span>Implement the Cordova WebView in your project.</span>
+        </li>
+    </ul>
     <h1>API Reference</h1>
     <ul>
         <li>
@@ -83,37 +114,6 @@
         <li>
             <h2><a href=#storage>Storage</a></h2>
             <span>Hook into the devices native storage options.</span>
-        </li>
-    </ul>
-    <h1>Guides</h1>
-    <ul>
-        <li>
-            <h2>Getting Started Guides</h2>
-            <span>Setup each SDK and create your first Cordova app.</span>
-        </li>
-        <li>
-            <h2>Command-Line Usage</h2>
-            <span>Create, build, deploy, and debug from the command-line.</span>
-        </li>
-        <li>
-            <h2>Upgrading Guides</h2>
-            <span>Upgrade an application to the latest Cordova release.</span>
-        </li>
-        <li>
-            <h2>Project Settings</h2>
-            <span>Customize the features of your app.</span>
-        </li>
-        <li>
-            <h2>Plugin Development Guide</h2>
-            <span>Develop your first Cordova plugin.</span>
-        </li>
-        <li>
-            <h2>Domain Whitelist Guide</h2>
-            <span>Grant an application access to external domains.</span>
-        </li>
-        <li>
-            <h2>Embedding WebView</h2>
-            <span>Implement the Cordova WebView in your project.</span>
         </li>
     </ul>
 </div>
