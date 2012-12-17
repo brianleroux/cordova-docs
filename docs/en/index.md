@@ -49,6 +49,7 @@
             <span>Implement the Cordova WebView in your project.</span>
         </li>
     </ul>
+    <hr>
     <h1>API Reference</h1>
     <ul>
         <li>
