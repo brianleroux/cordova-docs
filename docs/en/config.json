@@ -1,5 +1,14 @@
 {
     "language": "English",
+    "guide": [
+        "getting-started",
+        "whitelist",
+        "command-line",
+        "project-settings",
+        "cordova-webview",
+        "plugin-development",
+        "upgrading",
+    ],
     "merge": {
         "accelerometer.md": [
             "cordova/accelerometer/accelerometer.md",
