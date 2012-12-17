@@ -7,7 +7,7 @@
         "project-settings",
         "cordova-webview",
         "plugin-development",
-        "upgrading",
+        "upgrading"
     ],
     "merge": {
         "accelerometer.md": [
